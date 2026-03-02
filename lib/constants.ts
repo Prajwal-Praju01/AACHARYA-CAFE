@@ -61,7 +61,7 @@ export const MENU_ITEMS = {
       description: "Plate idlis topped with butter",
       price: 35,
       isVeg: true,
-      image: "/images/food/butter-thatte-idly.jpg",
+      image: "/images/food/thatte-idly.jpg",
     },
     {
       id: "3",
@@ -78,7 +78,7 @@ export const MENU_ITEMS = {
       description: "Soft idlis topped with ghee",
       price: 35,
       isVeg: true,
-      image: "/images/food/ghee-idly.jpg",
+      image: "/images/food/thatte-idly.jpg",
     },
     {
       id: "5",
@@ -95,7 +95,7 @@ export const MENU_ITEMS = {
       description: "Button idlis in sambar with ghee",
       price: 80,
       isVeg: true,
-      image: "/images/food/ghee-button-idly-sambar.jpg",
+      image: "/images/food/button-idly-sambar.jpg",
     },
     {
       id: "7",
@@ -103,7 +103,7 @@ export const MENU_ITEMS = {
       description: "2 pieces of mini idlis",
       price: 40,
       isVeg: true,
-      image: "/images/food/mini-idly.jpg",
+      image: "/images/food/thatte-idly.jpg",
     },
     {
       id: "8",
@@ -128,7 +128,7 @@ export const MENU_ITEMS = {
       description: "Rava idlis topped with ghee",
       price: 55,
       isVeg: true,
-      image: "/images/food/ghee-rava-idly.jpg",
+      image: "/images/food/rava-idly.jpg",
     },
   ],
   dosa: [
@@ -156,7 +156,7 @@ export const MENU_ITEMS = {
       description: "Dosa roasted in ghee with cashew nuts",
       price: 110,
       isVeg: true,
-      image: "/images/food/ghee-kaju-dosa.jpg",
+      image: "/images/food/ghee-masala-dosa.jpg",
     },
     {
       id: "14",
@@ -164,7 +164,7 @@ export const MENU_ITEMS = {
       description: "Masala dosa with ghee and podi spice mix",
       price: 95,
       isVeg: true,
-      image: "/images/food/ghee-pudi-masala-dosa.jpg",
+      image: "/images/food/ghee-masala-dosa.jpg",
     },
     {
       id: "15",
@@ -189,7 +189,7 @@ export const MENU_ITEMS = {
       description: "Plain dosa with ghee and podi",
       price: 75,
       isVeg: true,
-      image: "/images/food/ghee-pudi-plain-dosa.jpg",
+      image: "/images/food/plain-dosa.jpg",
     },
     {
       id: "18",
@@ -197,7 +197,7 @@ export const MENU_ITEMS = {
       description: "Masala dosa roasted with butter",
       price: 85,
       isVeg: true,
-      image: "/images/food/butter-masala-dosa.jpg",
+      image: "/images/food/masala-dosa.jpg",
     },
     {
       id: "19",
@@ -205,7 +205,7 @@ export const MENU_ITEMS = {
       description: "Open dosa roasted with butter",
       price: 80,
       isVeg: true,
-      image: "/images/food/butter-open-dosa.jpg",
+      image: "/images/food/plain-dosa.jpg",
     },
     {
       id: "20",
@@ -213,7 +213,7 @@ export const MENU_ITEMS = {
       description: "Dosa topped with onions",
       price: 70,
       isVeg: true,
-      image: "/images/food/onion-dosa.jpg",
+      image: "/images/food/masala-dosa.jpg",
     },
     {
       id: "21",
@@ -221,7 +221,7 @@ export const MENU_ITEMS = {
       description: "Healthy ragi dosa roasted in ghee",
       price: 75,
       isVeg: true,
-      image: "/images/food/ghee-ragi-dosa.jpg",
+      image: "/images/food/plain-dosa.jpg",
     },
     {
       id: "22",
@@ -229,7 +229,7 @@ export const MENU_ITEMS = {
       description: "Dosa filled with vegetable sagu",
       price: 60,
       isVeg: true,
-      image: "/images/food/sagu-dosa.jpg",
+      image: "/images/food/masala-dosa.jpg",
     },
     {
       id: "23",
@@ -237,7 +237,7 @@ export const MENU_ITEMS = {
       description: "Puffed puris served with vegetable sagu",
       price: 65,
       isVeg: true,
-      image: "/images/food/puri-sagu.jpg",
+      image: "/images/food/set-dosa.jpg",
     },
   ],
   chinese: [
@@ -273,7 +273,7 @@ export const MENU_ITEMS = {
       description: "Baby corn in spicy manchurian gravy",
       price: 129,
       isVeg: true,
-      image: "/images/food/baby-corn-manchurian.jpg",
+      image: "/images/food/gobi-manchurian.jpg",
     },
     {
       id: "28",
@@ -290,7 +290,7 @@ export const MENU_ITEMS = {
       description: "Mushrooms in spicy chilli sauce",
       price: 149,
       isVeg: true,
-      image: "/images/food/mushroom-chilli.jpg",
+      image: "/images/food/chilli-paneer.jpg",
     },
     {
       id: "30",
@@ -298,7 +298,7 @@ export const MENU_ITEMS = {
       description: "Cauliflower in chilli sauce",
       price: 119,
       isVeg: true,
-      image: "/images/food/gobi-chilli.jpg",
+      image: "/images/food/chilli-paneer.jpg",
     },
     {
       id: "31",
@@ -306,7 +306,7 @@ export const MENU_ITEMS = {
       description: "Baby corn in spicy chilli preparation",
       price: 139,
       isVeg: true,
-      image: "/images/food/baby-corn-chilli.jpg",
+      image: "/images/food/chilli-paneer.jpg",
     },
     {
       id: "32",
@@ -331,7 +331,7 @@ export const MENU_ITEMS = {
       description: "Fried rice with mushrooms",
       price: 129,
       isVeg: true,
-      image: "/images/food/mushroom-fried-rice.jpg",
+      image: "/images/food/veg-fried-rice.jpg",
     },
     {
       id: "35",
@@ -339,7 +339,7 @@ export const MENU_ITEMS = {
       description: "Fried rice with baby corn",
       price: 119,
       isVeg: true,
-      image: "/images/food/baby-corn-fried-rice.jpg",
+      image: "/images/food/veg-fried-rice.jpg",
     },
     {
       id: "36",
@@ -347,7 +347,7 @@ export const MENU_ITEMS = {
       description: "Classic vegetable noodles",
       price: 109,
       isVeg: true,
-      image: "/images/food/veg-noodles.jpg",
+      image: "/images/food/veg-hakka-noodles.jpg",
     },
     {
       id: "37",
@@ -364,7 +364,7 @@ export const MENU_ITEMS = {
       description: "Noodles with paneer",
       price: 139,
       isVeg: true,
-      image: "/images/food/paneer-noodles.jpg",
+      image: "/images/food/veg-hakka-noodles.jpg",
     },
     {
       id: "39",
@@ -372,7 +372,7 @@ export const MENU_ITEMS = {
       description: "Noodles with mushrooms",
       price: 129,
       isVeg: true,
-      image: "/images/food/mushroom-noodles.jpg",
+      image: "/images/food/veg-hakka-noodles.jpg",
     },
     {
       id: "40",
@@ -380,7 +380,7 @@ export const MENU_ITEMS = {
       description: "Noodles with baby corn",
       price: 119,
       isVeg: true,
-      image: "/images/food/baby-corn-noodles.jpg",
+      image: "/images/food/veg-hakka-noodles.jpg",
     },
     {
       id: "41",
@@ -397,7 +397,7 @@ export const MENU_ITEMS = {
       description: "Dry paneer with black pepper",
       price: 149,
       isVeg: true,
-      image: "/images/food/paneer-pepper-dry.jpg",
+      image: "/images/food/paneer-ghee-roast.jpg",
     },
     {
       id: "43",
@@ -405,7 +405,7 @@ export const MENU_ITEMS = {
       description: "Dry mushroom preparation with black pepper",
       price: 149,
       isVeg: true,
-      image: "/images/food/mushroom-pepper-dry.jpg",
+      image: "/images/food/mushroom-manchurian.jpg",
     },
   ],
   beverages: [
@@ -432,7 +432,7 @@ export const MENU_ITEMS = {
       description: "Black coffee without milk",
       price: 20,
       isVeg: true,
-      image: "/images/food/black-coffee.jpg",
+      image: "/images/food/coffee.jpg",
     },
     {
       id: "47",
@@ -440,7 +440,7 @@ export const MENU_ITEMS = {
       description: "Refreshing tea with lemon",
       price: 20,
       isVeg: true,
-      image: "/images/food/lemon-tea.jpg",
+      image: "/images/food/tea.jpg",
     },
     {
       id: "48",
